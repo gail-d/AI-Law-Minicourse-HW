@@ -64,7 +64,7 @@ We can now see that we’ve been building a database and the mechanisms to view 
 We’re not sure if this worked, since no new variables were created and no error messages displayed. Without any direction in these tutorials, we can only assume (as we have for the past 2 steps) that what we’re doing is correct. The add-on Variable inspector was invaluable in helping us determine that we actually were in the process of creating something. Common words are theoretically assigned.
 
 # Step 4 :white_square_button:
-We don’t see the  printout that is displayed after some of the steps here. But, as in the previous step, we are not getting any error messages. Also, it’s not clear whether we should be seeing the printouts that are interspersed in the tutorial or if those images are for reference. 
+We don’t see the  printout that is displayed after some of the steps here. But, as in the previous step, we are not getting any error messages. Also, it’s not clear whether we should be seeing the printouts that are interspersed in the tutorial or if those images are for reference. Theoretically, 3 different machine learning models are applied.  It would have been interesting to compare the computation time.
 
 -------------
 # TENSORFLOW :white_square_button: 
